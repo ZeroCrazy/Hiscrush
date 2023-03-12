@@ -6,3 +6,4 @@
 - Hiscrush was its own project where its function was that each user could enter someone's profile and ask them an anonymous question (or not).
 - [Admin] It has an administration panel for users and incidents
 - [Profile] You can adjust your profile with your favorite colors, if you want feedback, please link it with Twitter and Instagram API, the latest connection
+- The entire system was developed in PHP 5.6 when PHP 7.0 had not yet been released
