@@ -1,0 +1,2 @@
+	  <?php require '../inc/core.php'; ?>
+	  <i class="material-icons right<?php if($user['new_messages'] == 'yes'){ ?> animated flash infinite<?php } ?>"><?php if($user['new_messages'] == 'no'){ ?>notifications<?php } else { ?>notifications_active<?php } ?></i>

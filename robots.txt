@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: 
+Allow: /assets
+
+Sitemap: http://127.0.0.1/sitemap.xml
